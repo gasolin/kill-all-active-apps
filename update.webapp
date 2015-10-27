@@ -1,11 +1,12 @@
 {
-  "name": "kill-all-actives",
+  "name": "Kill-Actives",
   "description": "Add a button to kill all active apps. https://github.com/gasolin/kill-all-active-apps",
   "developer": {
     "name": "John Hu & gasolin"
   },
-  "dependencies": {
-    "gulp": "*",
-    "gulp-zip": "*"
+  "package_path": "package.zip",
+  "icons": {
+    "128": "/icons/128.png",
+    "256": "/icons/256.png"
   }
 }
