@@ -1,12 +1,11 @@
 {
   "manifest_version": 1,
-  "name": "Kill-Actives",
+  "name": "Kill All Activities",
   "description": "Add a button to kill all active apps. https://github.com/gasolin/kill-all-active-apps",
   "developer": {
     "name": "John Hu & gasolin"
   },
-  "version": "2.0.1",
-  "package_path": "package.zip",
+  "version": "2.0.2",
   "content_scripts": [
     {
       "matches": ["app://system.gaiamobile.org/index.html"],

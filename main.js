@@ -9,7 +9,7 @@
     var button = document.createElement('button');
     // set it as type to prevent form submit.
     button.type = 'button';
-    button.textContent = '🈳';
+    button.textContent = 'X';
     button.style.background = 'none';
     button.style.border = 'none';
     button.style.outline = 'none';
